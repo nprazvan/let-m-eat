@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%20//nprazvan.github.io/let-m-eat/static/css/main.f019f121.css",
+    "main.js": "/%20//nprazvan.github.io/let-m-eat/static/js/main.82703ac9.js",
+    "static/media/meals2.jpg": "/%20//nprazvan.github.io/let-m-eat/static/media/meals2.d9240a1702761a81ccef.jpg",
+    "index.html": "/%20//nprazvan.github.io/let-m-eat/index.html",
+    "main.f019f121.css.map": "/%20//nprazvan.github.io/let-m-eat/static/css/main.f019f121.css.map",
+    "main.82703ac9.js.map": "/%20//nprazvan.github.io/let-m-eat/static/js/main.82703ac9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f019f121.css",
+    "static/js/main.82703ac9.js"
+  ]
+}
